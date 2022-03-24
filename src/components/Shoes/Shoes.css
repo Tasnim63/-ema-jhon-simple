@@ -1,0 +1,13 @@
+.card img{
+    width: 315px;
+    height: 300px;
+    border-radius: 30px;
+
+}
+.shop {
+    height: 550px;
+    border-radius: 30px;
+}
+.shop a:hover{
+    background-color: orange;
+}

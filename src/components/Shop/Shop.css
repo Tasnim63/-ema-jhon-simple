@@ -1,0 +1,15 @@
+.shop-products{
+display: grid;
+grid-template-columns: 4fr 1fr;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+    margin: 50px;
+    padding: 10px;
+    column-gap: 20px;
+    row-gap: 30px;
+}
+.information{
+background-color: rgb(236, 218, 184);
+}

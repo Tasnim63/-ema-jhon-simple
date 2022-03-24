@@ -1,0 +1,18 @@
+/* style start here */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #1C2B35;
+    color: white;
+    height: 80px;
+}
+.navbar img{
+    margin-left: 40px;
+}
+ .nav ul li .nav-link:hover{
+    color: orange;
+}
